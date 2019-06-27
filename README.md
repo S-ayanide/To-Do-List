@@ -4,11 +4,13 @@
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=popout)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
 
-A simple Scratch and Win App where you have a grid of 25 blocks out of which only one block has the prize. Good Luck finding out which one. 😉👌
+A ToDo application which allows the user to enter a todo and also delete them, includes smooth transitions 💥✨
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app allows the user to select any 5 block from the total 25 present out of which only one has the prize. If you figure out which block it is on or before 5th try then you win, else you lose and the game will reset itself. It's a game of Luck. Good Luck!
+Created a To Do list using JavaScript which can add a todo, and also remove one.
+Added features to remove only the checked items as well as also to remove the whole todo if the user wants
+Takes user input and adds todo after a smooth transition
 
 ## Screenshots
 <img src="images/Capture1.PNG"
@@ -33,16 +35,6 @@ This Flutter app allows the user to select any 5 block from the total 25 present
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
-
-## How to run this
-Running this is as simple as it gets. Follow this steps
-1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
-2. Navigate to the project folder where you have cloned this repo.
-3. Open an emulator or plug in a real device
-4. Type the following command in the terminal 
-     ```
-     flutter run
-     ```
      
 ## Pull Request
 
@@ -76,4 +68,4 @@ limitations under the License.
 ```
 
 ## Getting Started
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
+For help getting started with JavaScript, view our online [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
