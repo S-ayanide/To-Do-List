@@ -15,8 +15,7 @@ Takes user input and adds todo after a smooth transition
 ## Screenshots
 <img src="images/ToDo.PNG"
      alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/>
+     style="float: left; margin-right: 10px;"/>
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
