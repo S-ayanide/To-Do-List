@@ -17,6 +17,14 @@ Takes user input and adds todo after a smooth transition
      alt="Home Screen"
      style="float: left; margin-right: 10px;"/>
      
+## Features
+What can you do in this project --
+1. Clicking on the ToDo lists marks them as checked and also cuts the line from the middle indicating that it has been completed.
+2. Clicking on 'Remove ToDo' removes all the **checked** to do lists.
+3. Clicking on 'Remove All' removes all the to do lists checked/unchecked.
+4. Users can enter Custom ToDos in the Input Field which will be added to the top of the list.
+5. Upon entering blank todo a warning message will pop which will auto clear itself in a few seconds.
+
 ## NOTE:
 This project is subject to change by the developer and is still in development
      
