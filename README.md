@@ -13,22 +13,7 @@ Added features to remove only the checked items as well as also to remove the wh
 Takes user input and adds todo after a smooth transition
 
 ## Screenshots
-<img src="images/Capture1.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture2.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture3.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2eKf5GwmUd2SBFHkMz/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2sfDYwLZWJa3vzcKmG/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/fQAxC8cuFEbA0f5tql/200w_d.gif"
+<img src="images/ToDo.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>
